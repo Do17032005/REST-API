@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Rest API.iml" filepath="$PROJECT_DIR$/.idea/Rest API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.example.demo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.example.demo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session1.demo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/session1.demo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session1.demo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/session1.demo.test.iml" />
+    </modules>
+  </component>
+</project>
